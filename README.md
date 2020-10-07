@@ -1,1 +1,1 @@
-# Data-mining-model-for-Recognizing-human-activity-using-wearable-accelerometer-sensors-placed-at-diff
+# Recognizing human activity using multiple wearable accelerometer sensors
