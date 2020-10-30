@@ -25,7 +25,7 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
   + `UCI_HAR_dataset/test/y_test.txt`
   
 ## Precaution:
-Put the HAR.ipynb file inside the Dataset  folder to run the .ipynb file(The HAR.ipynb file and UCI_HAR_DATASET must be in the same directory and should have same parent)
+Put the HumanActivityRecognition.ipynb file inside the Dataset  folder to run the .ipynb file(The HumanActivityRecognition.ipynb file and UCI_HAR_DATASET must be in the same directory and should have same parent)
 ## Problem Statement 
 ### Predict one of the following six activities that a Smartphone user is performing at that 2.56 Seconds time window by using either 561 feature data or raw features of 128 reading.
 + Walking
