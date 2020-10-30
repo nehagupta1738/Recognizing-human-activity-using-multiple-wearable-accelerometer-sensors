@@ -43,3 +43,4 @@ Put the `HumanActivityRecognition.ipynb` file inside the Dataset  folder to run 
 + Madhav Bansal
   
 
+https://github.com/gauravtheP/Human-Activity-Recognition
